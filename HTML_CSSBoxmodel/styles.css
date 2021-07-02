@@ -1,0 +1,137 @@
+body {
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+h1 {
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    font-size: 500%;
+    text-align: center; 
+    margin: 0px;
+}
+
+h3 {
+    color: red;
+    text-decoration: underline yellow; 
+}
+
+h4 {
+    color: red;
+    text-decoration: underline red;
+}
+
+.paragraph {
+    color: black;
+}
+
+p {
+    color: darkgreen;
+}
+
+.indent {
+    color: red;
+    text-decoration: underline yellow;
+}
+
+em {
+    color: red;
+}
+
+.menu   {
+    border: solid medium lightblue;
+    border-radius: 10px;
+    background-color: yellow;
+    text-align: right;
+    background-color: transparent; 
+}
+
+.menu li
+{
+    list-style: none;
+    display: inline;
+    width: auto;
+    margin: 0px;
+    padding: 10px;
+    font-size: 200%;
+    
+}
+
+.second {
+    color: orangered;
+    text-align: center;
+    text-decoration: underline black; 
+    }
+
+.lions {
+    border: double 14px orangered;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+
+.border-1 {
+    border: double 20px black;
+    max-height: auto;
+    margin: 30px 0px;
+    padding: 20px; 
+    background-image:url("Beaches.jpg");
+    background-size:contain;
+   
+}
+
+.border-2 {
+    border: solid green 8px;
+    margin: auto;    
+    background: lightgreen;
+    min-width: 200px;
+    padding: 0px 15px; 
+    color: black; 
+}
+
+.border-3 {
+    border: double 12px black;
+    margin: 30px 0px 30px; 
+    padding: 10px;
+    text-align: center;
+    
+}
+.green {
+    color: green;
+}
+
+.gold {
+    color: gold;
+}
+
+.red {
+    color: red;
+}
+
+.a { 
+    color: black;
+    text-decoration: underline red;
+    text-align: center;
+    
+} 
+
+a:hover {
+    color: green;
+    background-color: yellow;
+}
+
+.sub {
+    color: yellow;
+    text-decoration: underline red;
+}
+
+.back {
+    text-align:center;
+    
+}
